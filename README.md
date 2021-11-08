@@ -15,7 +15,12 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 |Average rock number     | 3.15 | 15.89  | -   | 9.91|
 |max rock number      | 12   | 77     | -   | 55  | 
 |min rock number      | 1    | 1      | 0   |  0  | 
-
+### Code
+for testing, please run *demo.m*.
+Folder *Dependencies* inclues functions about proposed KPCA-based Rock Detection method(KPRD) and KLRR-based Rock Detection method(KLRD).
+Folder *SLIC* includes functions that used to segment image into superpixels.
+Folder *Exfeatures* includes functions that extract gray-scale features of eac superpixel region.
+Folder *Evaluation* includes all the source codes of metrics used to evaluate the performance of proposed algorithms and RKLRR and a learning-based method(ref [23] in our paper)
 ### Further plan
 We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 2000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
