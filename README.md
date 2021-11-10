@@ -1,9 +1,9 @@
-# MarsData
-## a Martian rock dataset for segmentation.
-We refined and built a labeled dataset called **MarsData** for rock segmentation on planet excepically on Mars in our paper:
-
+## Official implementation for KLRD and KPRD methods (code and data)
+This is the official implementation of the codes and data that produced the results in the our IEEE TNNLS manuscript titled
 *XM Xiao, MB Yao, HQ Liu, et al., A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*
 
+We refined and built a labeled dataset called **MarsData** for rock segmentation on planet excepically on Mars in this paper.
+## MarsData  ———— a Martian rock dataset for segmentation.
 ### Image source
 Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
 
@@ -15,12 +15,17 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 |Average rock number     | 3.15 | 15.89  | -   | 9.91|
 |max rock number      | 12   | 77     | -   | 55  | 
 |min rock number      | 1    | 1      | 0   |  0  | 
-### Code
-for testing, please run *demo.m*.
-Folder *Dependencies* inclues functions about proposed KPCA-based Rock Detection method(KPRD) and KLRR-based Rock Detection method(KLRD).
-Folder *SLIC* includes functions that used to segment image into superpixels.
-Folder *Exfeatures* includes functions that extract gray-scale features of eac superpixel region.
+
+### Main Dependencies:
+for testing, please run *demo.m*.  
+
+Folder *Dependencies* inclues functions about proposed KPCA-based Rock Detection method(KPRD) and KLRR-based Rock Detection method(KLRD) as well as RKLRR method.  
+Folder *SLIC* includes functions that used to segment image into superpixels.  
+
+Folder *Exfeatures* includes functions that extract gray-scale features of eac superpixel region.  
+
 Folder *Evaluation* includes all the source codes of metrics used to evaluate the performance of proposed algorithms and RKLRR and a learning-based method(ref [23] in our paper)
+
 ### Further plan
 We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 2000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
