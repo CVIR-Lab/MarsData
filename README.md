@@ -1,9 +1,10 @@
 ## Official implementation for KLRD and KPRD methods (code and data)
 This is the official implementation of the codes and data that produced the results in the our IEEE TNNLS manuscript titled
-*XM Xiao, MB Yao, HQ Liu, et al., A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*
+
+"*XM Xiao, MB Yao, HQ Liu, et al., A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*"
 
 We refined and built a labeled dataset called **MarsData** for rock segmentation on planet excepically on Mars in this paper.
-## MarsData  ———— a Martian rock dataset for segmentation.
+## MarsData  —— a Martian rock dataset for segmentation.
 ### Image source
 Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
 
@@ -12,18 +13,21 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
 |Number of images     | 201  |204     | 2340 | 854 |
-|Average rock number     | 3.15 | 15.89  | -   | 9.91|
-|max rock number      | 12   | 77     | -   | 55  | 
-|min rock number      | 1    | 1      | 0   |  0  | 
+|Average rock number  | 3.15 | 15.89  | -    | 9.91|
+|max rock number      | 12   | 77     | -    | 55  | 
+|min rock number      | 1    | 1      | 0    |  0  | 
 
 ### Main Dependencies:
+We will soon released the whole code and data.
 for testing, please run *demo.m*.  
 
-Folder *Dependencies* inclues functions about proposed KPCA-based Rock Detection method(KPRD) and KLRR-based Rock Detection method(KLRD) as well as RKLRR method.  
-Folder *SLIC* includes functions that used to segment image into superpixels.  
-
+1. *Dependencies* 
+inclues functions about proposed KPCA-based Rock Detection method(KPRD) and KLRR-based Rock Detection method(KLRD) as well as RKLRR method.  
+2. *Folder* 
+*SLIC* includes functions that used to segment image into superpixels.  
+3. *Features*
 Folder *Exfeatures* includes functions that extract gray-scale features of eac superpixel region.  
-
+4. *Evaluation*
 Folder *Evaluation* includes all the source codes of metrics used to evaluate the performance of proposed algorithms and RKLRR and a learning-based method(ref [23] in our paper)
 
 ### Further plan
