@@ -26,7 +26,6 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 
 ### Contents
 1. **Exfeatures**  
-
 This folder includes all the functions that extract gray-scale features for each superpixel region.
 
 2. **Dependencies**  
