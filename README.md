@@ -1,11 +1,10 @@
 ## Official implementation for KLRD and KPRD methods (code and data)
-------------------------
 This is the official implementation of the codes and data that produced the results in the our IEEE TNNLS manuscript titled
 
 "*XM Xiao, MB Yao, HQ Liu, et al., A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*"
 
 We will soon released the whole codes and data. 
-
+------------------------
 ## MarsData  —— a Martian rock dataset for segmentation.
 We refined and built a labeled dataset called **MarsData** for rock segmentation on planet excepically on Mars in this paper. Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
 
