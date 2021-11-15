@@ -1,8 +1,5 @@
 function a = BinarizedSegDisplay(Img, FC,rr,cc)
 Bw_FC = im2bw(FC,graythresh(FC));
-%     Bw_FC = im2bw(FC,1.2*mean(FC(:)));
-%     Bw_FC = imbinarize(FC,'adaptive','ForegroundPolarity','bright','Sensitivity',0.3);
-%     figure,imshow(Bw_FC)
 detect = zeros(rr,cc,3);
 detect1 = detect(:,:,1);
 detect2 = detect(:,:,2);
