@@ -1,8 +1,9 @@
 ## Official implementation for KLRD and KPRD methods (code and data)
 ------------------------
-This is the official implementation of the codes and data that produced the results in our IEEE TNNLS manuscript titled
+This is the official implementation of the codes and data that produced the results in titled
 
-"*XM Xiao, MB Yao, HQ Liu, et al., A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*"
+"*A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*" submitted to IEEE TNNLS Special Issue on:
+Deep Learning for Earth and Planetary Geosciences.
 
 We will soon released the whole codes and data after the paper is availabe.
 
