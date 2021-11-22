@@ -39,7 +39,7 @@ This folder includes the core functions of the proposed KPCA-based Rock Detectio
 3. **Evaluation**  
 This folder includes all the source codes of the evaluating metrics used in our paper.
 
-4. **MUnet**
+4. **MUnet**  
 This folder includes the implemention of the ref [23] in our manuscript.  
 
 ### Get started  
