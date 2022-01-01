@@ -27,7 +27,6 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 ### Main Dependencies:
 
 1. Matlab R2018b and C++
-2. Python 3 and Pytorch platform
 
 ### Contents
 1. **Exfeatures**  
@@ -46,7 +45,6 @@ This folder includes the implemention of the ref [23] in our manuscript.
 1. clone the respository to your PC
 2. for testing KLRD, KPRD and RKLRR, please run *demo.m*, all the detection results will be saved in the folder of **Results**
 3. for evaluating, run *evaluate.m*
-4. for testing the learning-based method in ref [23], please run: python xx.py 
 
 
 
