@@ -54,7 +54,8 @@ This folder includes the implemention of the ref [23] in our manuscript.
 We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 2000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
 If you find **MarsData** is helpful for your research, please cite our paper：
-'''
+
+```
 @article{xiao2021kernel,
   title={A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover},
   author={Xiao, Xueming and Yao, Meibao and Liu, Haiqiang and Wang, Jiake and Zhang, Lei and Fu, Yuegang},
@@ -63,4 +64,4 @@ If you find **MarsData** is helpful for your research, please cite our paper：
   doi={10.1109/TNNLS.2021.3131206},
   publisher={IEEE}
 }
-'''
+```
