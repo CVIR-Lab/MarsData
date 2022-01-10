@@ -38,9 +38,6 @@ This folder includes the core functions of the proposed KPCA-based Rock Detectio
 3. **Evaluation**  
 This folder includes all the source codes of the evaluating metrics used in our paper.
 
-4. **MUnet**  
-This folder includes the implemention of the ref [23] in our manuscript.  
-
 ### Get started  
 1. clone the respository to your PC
 2. for testing KLRD, KPRD and RKLRR, please run *demo.m*, all the detection results will be saved in the folder of **Results**
