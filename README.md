@@ -19,11 +19,9 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 ![avatar](https://github.com/CVIR-Lab/MarsData/blob/main/Data%20example/ex1-image.jpg)
 
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
-|:-|:-:|:-:|:-:|:-:|
-|Number of images     | 201  |204     | 1981 | 854 |
-|Average rock number  | 3.15 | 15.89  | -    | 9.91|
-|max rock number      | 12   | 77     | -    | 55  | 
-|min rock number      | 1    | 1      | 0    |  0  | 
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| SkyScapes | 31 | 16 | 8820 | 5616 × 3744 | 3.36 × 10^8 |
+| MarsScapes | 18 | 195 | 10404 | Widths:1230∼12062 Heights: 472∼1649 | 3.92 × 10^{8} |
 
 ## Codes
 ---------------------
