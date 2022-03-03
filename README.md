@@ -20,7 +20,7 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
-|Number of images     | 201  |204     | 1981 | 854 |
+|Number of images     | 201  |204     | 25092 | 5820 |
 |Average rock number  | 3.15 | 15.89  | -    | 9.91|
 |max rock number      | 12   | 77     | -    | 55  | 
 |min rock number      | 1    | 1      | 0    |  0  | 
