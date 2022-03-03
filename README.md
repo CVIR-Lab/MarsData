@@ -9,7 +9,7 @@ We will soon released the whole codes and data after the paper is availabe.
 
 ## MarsData  — a Martian rock dataset for segmentation.
 ----------------------------------
-We refined and built a labeled dataset called **MarsData** for rock segmentation on planet excepically on Mars in this paper. Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
+We refined and built the first labeled dataset for rocks on Mars, **MarsData**. Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
 
 ## Data
 ------------------------
