@@ -13,7 +13,8 @@ We refined and built the first labeled dataset for rocks on Mars, **MarsData**. 
 
 ## Data
 ------------------------
-So do .Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-B** with total 405 labeled rock images and more than 20,000 rocks. **Rock-A** is a simple rock dataset with a few rocks in one scene. **Rock-B** is a challenging dataset with more abundant rocks in one image. We used them to evaluate proposed algorithms and others in our paper. In order to produce sufficient data to well support the deep training, we combined them together and split all images randomly into train and test sets. After data augmentation, the train and test sets can be used to train and evaluate the deep learning-based rock segmentation methods, as mentioned in our paper.  Of course, you can do the augmentation work by yourself with more methods in order to produce more data.
+Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-B** with total 405 labeled rock images and more than 20,000 rocks. **Rock-A** is a simple rock dataset with a few rocks in one scene. **Rock-B** is a challenging dataset with more abundant rocks in one image. We used them to evaluate proposed algorithms and others in our paper. In order to produce sufficient data to well support the deep training, we combined them together and split all images randomly into train and test sets. After data augmentation, the train and test sets can be used to train and evaluate the deep learning-based rock segmentation methods, as mentioned in our paper.  Of course, you can do the augmentation work by yourself with more methods in order to produce more data.
+
 
 ![image](https://github.com/CVIR-Lab/MarsData/blob/main/Data%20example/ex1-mask.png)
 ![image](https://github.com/CVIR-Lab/MarsData/blob/main/Data%20example/ex1-image.jpg)
