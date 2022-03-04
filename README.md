@@ -27,7 +27,7 @@ Segmentation samples:
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
 |Number of images     | 201  |204     | 25092 | 5820 |
-|Average rock number  | 3.15 | 15.89  | 3,8    | 5.08 |
+|Average rock number  | 3.15 | 15.89  | 3.8    | 5.08 |
 |max rock number      | 12   | 77     | 77    | 55  | 
 |min rock number      | 1    | 1      | 0    |  0  | 
 
