@@ -15,7 +15,7 @@ We refined and built the first labeled dataset for rocks on Mars, **MarsData**. 
 ------------------------
 Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-B** with total 405 labeled rock images and more than 20,000 rocks. **Rock-A** is a simple rock dataset with a few rocks in one scene. **Rock-B** is a challenging dataset with more abundant rocks in one image. We used them to evaluate proposed algorithms and others in our paper. In order to produce sufficient data to well support the deep training, we combined them together and split all images randomly into **Train** and **Test** sets. After data augmentation(mainly crop and rotate), the **Train** and **Test** sets contain 25,092 and 5,820 images respectively, and can be used to train and evaluate learning-based rock segmentation methods. Of course, you can do augmentation work by yourself with more methods to produce more data.
 
-Segmentation samples
+Segmentation samples:
 <div align="center">
 <img src=https://user-images.githubusercontent.com/20831138/156727546-c2019bb6-5167-47e8-b431-c4f9cda7a2f3.jpg width="20%" />
 <img src=https://user-images.githubusercontent.com/20831138/156726734-0d1a9f63-0ec5-401c-9433-04877ab82416.png width="20%" />
@@ -27,8 +27,8 @@ Segmentation samples
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
 |Number of images     | 201  |204     | 25092 | 5820 |
-|Average rock number  | 3.15 | 15.89  | -    | 9.91|
-|max rock number      | 12   | 77     | -    | 55  | 
+|Average rock number  | 3.15 | 15.89  | 3,8    | 5.08 |
+|max rock number      | 12   | 77     | 77    | 55  | 
 |min rock number      | 1    | 1      | 0    |  0  | 
 
 ## Codes
@@ -55,7 +55,7 @@ This folder includes all the source codes of the evaluating metrics used in our 
 
 
 ## Further plan
-We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 2000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
+We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 100,000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
 If you find **MarsData** is helpful for your research, please cite our paper：
 
