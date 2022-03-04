@@ -19,6 +19,7 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 <img src=https://user-images.githubusercontent.com/20831138/156726734-0d1a9f63-0ec5-401c-9433-04877ab82416.png width="40%" />
 <img src=https://user-images.githubusercontent.com/20831138/156727546-c2019bb6-5167-47e8-b431-c4f9cda7a2f3.jpg width="40%" />
 </div>
+
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
 |Number of images     | 201  |204     | 25092 | 5820 |
