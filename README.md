@@ -21,6 +21,10 @@ Segmentation samples:
 <img src=https://user-images.githubusercontent.com/20831138/156726734-0d1a9f63-0ec5-401c-9433-04877ab82416.png width="20%" />
 <img src=https://user-images.githubusercontent.com/20831138/156730443-6622b3bc-5f37-4352-9be6-724fbd291514.jpg width="20%" />
 <img src=https://user-images.githubusercontent.com/20831138/156730587-4f7dd0a5-269a-4cee-8881-ae81ad4ddd5d.png width="20%" />
+<img src=https://user-images.githubusercontent.com/73680591/156786345-0469cf84-a4a7-40e4-9400-c728a1cfb093.jpg width="20%" />
+<img src=https://user-images.githubusercontent.com/73680591/156786442-24184580-7077-4ff2-81f6-faff1c57b099.png width="20%" />
+<img src=https://user-images.githubusercontent.com/73680591/156786542-1885a7ab-9824-4fb7-8ed9-60190ca8912d.jpg width="20%" />
+<img src=https://user-images.githubusercontent.com/73680591/156786597-279a1d5e-f3ba-40e1-98cc-eadf6fc4b6ac.png width="20%" />
 </div>
 
 
