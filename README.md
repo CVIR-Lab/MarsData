@@ -17,7 +17,7 @@ Currently, **MarsData** currently includes two sub-datasets, **Rock-A**, **Rock-
 
 
 ![image](https://user-images.githubusercontent.com/20831138/156726734-0d1a9f63-0ec5-401c-9433-04877ab82416.png)
-![image](https://github.com/CVIR-Lab/MarsData/blob/main/Data%20example/ex1-image.jpg)
+![image](https://user-images.githubusercontent.com/20831138/156727546-c2019bb6-5167-47e8-b431-c4f9cda7a2f3.jpg)
 
 |**MarsData** | **Rock-A** | **Rock-B** | **train**(after aug) | **test**(after aug)|
 |:-|:-:|:-:|:-:|:-:|
