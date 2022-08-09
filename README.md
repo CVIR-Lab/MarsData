@@ -5,8 +5,6 @@ This is the official implementation of the codes and data that produced the resu
 "*A Kernel-based Multi-featured Rock Modeling and Detection Framework for a Mars Rover*" submitted to IEEE TNNLS Special Issue on:
 Deep Learning for Earth and Planetary Geosciences.
 
-We will soon released the whole codes and data after the paper is availabe.
-
 ## MarsData  — a Martian rock dataset for segmentation.
 ----------------------------------
 We refined and built the first labeled dataset for rocks on Mars, **MarsData**. Images are collected from an unlabeled [Mars image dataset](https://dominikschmidt.xyz/mars32k/). The intention of **MarsData** is to provied a standard rock detection benchmark with pixel-level mask for researchers who are interseting on deep learning methods for planetray sciences and robotics. Note: All mars images are courtesy of NASA/JPL-Caltech. You can read the full use policy [here](https://www.jpl.nasa.gov/jpl-image-use-policy).
@@ -54,12 +52,11 @@ This folder includes all the source codes of the evaluating metrics used in our 
 ### Get started  
 1. clone the respository to your PC
 2. for testing KLRD, KPRD and RKLRR, please run *demo.m*, all the detection results will be saved in the folder of **Results**
-3. for evaluating, run *evaluate.m*
 
 
 
 ## Further plan
-We will continue to improve **MarsData**, planing to build a more complex and challenging sub-dataset(tentatively named **Rock-C**), and striving to reach more than 100,000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are applying for the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
+We will continue to improve **MarsData**, planing to build a more complex and challenging reall mars dataset(tentatively named **MarsData2.0**), and striving to reach more than 10,000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are studying on the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
 If you find **MarsData** is helpful for your research, please cite our paper：
 
