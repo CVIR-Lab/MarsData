@@ -1,4 +1,4 @@
-# foked from https://github.com/XingyuXie/IBDLR
+%# foked from https://github.com/XingyuXie/IBDLR
 function [Z,P,time_cost_ZPE] = RKLRR( lambda, K)
 [VK,Sigma_2,~] = svd(K);
 sigmaK = sqrt(diag(Sigma_2));

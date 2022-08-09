@@ -1,4 +1,4 @@
-function a = BinarizedSegDisplay(Img, FC,rr,cc)
+function [Bw_FC,a] = BinarizedSegDisplay(Img, FC,rr,cc)
 Bw_FC = im2bw(FC,graythresh(FC));
 detect = zeros(rr,cc,3);
 detect1 = detect(:,:,1);

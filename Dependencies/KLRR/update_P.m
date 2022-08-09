@@ -8,7 +8,8 @@ for i = 1:n
         a_low_temp = sqrt(hu'*(diag(Sig_sq_K.^2))*hu) - (Sig_sq_K(1).^2)./tau;
         lb = max(0,a_low_temp);
 %     lb = 0;
-        a = bisection(f, lb, ub, 1e-2);
+%         a = bisection(f, lb, ub, 1e-2);
+        a = bisectionMethod(f, lb, ub);
         P(:,i) = ci - Vk*(((Sig_sq_K.^2)./(Sig_sq_K.^2+a*tau)).*hu);
         b(i) = a;
     else

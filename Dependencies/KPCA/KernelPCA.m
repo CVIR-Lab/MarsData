@@ -96,11 +96,13 @@ classdef KernelPCA < handle
                 varargout{1} = obj.model.X_map;
             else
                 varargout{1} = obj.model.X_map;
-                varargout{2} = obj.model.K_c;
-                varargout{3} = obj.model.U_K;
-                varargout{4} = obj.model.Sig_K;
-                varargout{5} = obj.model.V_K;
-                varargout{6} = obj.model.K;
+                varargout{2} = obj.model.K;
+                varargout{3} = obj.model.timeCost;
+                varargout{4} = obj.model.K_c;
+%                 varargout{4} = obj.model.U_K;
+%                 varargout{5} = obj.model.Sig_K;
+%                 varargout{6} = obj.model.V_K;
+                
             end
             
             
