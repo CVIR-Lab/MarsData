@@ -12,7 +12,7 @@ We show two samples in MarsData-V2, where the Martian rocks with varying shapes,
   <img src=https://user-images.githubusercontent.com/73680591/156786442-24184580-7077-4ff2-81f6-faff1c57b099.png width="20%" />
   <img src=https://user-images.githubusercontent.com/73680591/156786542-1885a7ab-9824-4fb7-8ed9-60190ca8912d.jpg width="20%" />
   <img src=https://user-images.githubusercontent.com/73680591/156786597-279a1d5e-f3ba-40e1-98cc-eadf6fc4b6ac.png width="20%" />
-<img src=https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_332.png width="20%">
+<img src=https://raw.githubusercontent.com/CVIR-Lab/MarsData/MarsData-V2/samples/img_332.png width="20%">
 <img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_332.png" width="20%">
 <img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_336.png" width="20%">
 <img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_336.png" width="20%">
