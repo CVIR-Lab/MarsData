@@ -4,7 +4,14 @@ We release MarsData-V2, a rock segmentation dataset of real Martian scenes for t
 We show two samples in MarsData-V2, where the Martian rocks with varying shapes, sizes, textures and colors are labeled with fine-grained annotations
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/33188908/151687981-648783f0-fe0d-4f9a-aca0-c0f922d97c61.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_332.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_332.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_336.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_336.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_538.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_538.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/img_1101.png" width="20%">
+<img src="https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_1101.png" width="20%">
 </div>
 
 
