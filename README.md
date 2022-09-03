@@ -27,7 +27,7 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
   <img src=https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_1101.png width="20%">
 </div>
 
-Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respective. All samples will be provided after our paper is made public.
+Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. All samples will be provided after our paper is made public.
 
 ## References
 [1] Xiao X, Yao M, Liu H, et al. A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
