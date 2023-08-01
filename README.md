@@ -27,9 +27,22 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
   <img src=https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_1101.png width="20%">
 </div>
 
-Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. All samples will be provided after our paper is made public.
-
+Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. You can download all the data in the following ways:
+.[1]: [IEEE DataPort](https://github.com/CVIR-Lab/MarsData);
+.[2]: [IEEE DataPort](https://github.com/CVIR-Lab/MarsData);
 ## References
 [1] Xiao X, Yao M, Liu H, et al. A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
-[2] Furlán F, Rubio E, Sossa H, et al. Rock detection in a Mars-like environment using a CNN[C]//Mexican Conference on Pattern Recognition. Springer, Cham, 2019: 149-158.
+If you find **MarsData** is helpful for your research, please cite our paper：
+
+```
+@article{liu2023rockformer,
+  title={RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation},
+  author={Liu, Haiqiang and Yao, Meibao and Xiao, Xueming and Xiong, Yonggang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={61},
+  pages={1--16},
+  year={2023},
+  publisher={IEEE}
+}
+```
