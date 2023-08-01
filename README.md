@@ -31,7 +31,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 
 [1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 
-[2]: [OUr lab Dataservice](http://gofile.me/6V28a/UO89bnHf2);
+[2]: [Our lab Dataservice](http://gofile.me/6V28a/UO89bnHf2);
 
 [3]: [Google Cloud]();
 
