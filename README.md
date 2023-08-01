@@ -38,7 +38,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 [4]: [Baidu Cloud]();
 
 
-If you find **MarsData** is helpful for your research, please cite our papers and data：
+If you find **MarsDataV2** is helpful for your research, please cite our papers and data：
 
 ```
 @article{liu2023rockformer,
