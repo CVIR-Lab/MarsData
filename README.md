@@ -29,9 +29,13 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
 
 Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. You can download all the data in the following ways:
 
-.[1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
+[1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 
-.[2]: [LAB Dataservice](http://gofile.me/6V28a/UO89bnHf2);
+[2]: [OUr lab Dataservice](http://gofile.me/6V28a/UO89bnHf2);
+
+[3]: [Google Cloud]();
+
+[4]: [Baidu Cloud]();
 
 
 If you find **MarsData** is helpful for your research, please cite our paper：
@@ -59,4 +63,5 @@ If you find **MarsData** is helpful for your research, please cite our paper：
 
 ## References
 [1] Xiao X, Yao M, Liu H, et al. A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
+
 [2] Furlán F, Rubio E, Sossa H, et al. Rock detection in a Mars-like environment using a CNN[C]//Mexican Conference on Pattern Recognition. Springer, Cham, 2019: 149-158.
