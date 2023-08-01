@@ -38,7 +38,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 [4]: [Baidu Cloud]();
 
 
-If you find **MarsData** is helpful for your research, please cite our paper：
+If you find **MarsData** is helpful for your research, please cite our papers and data：
 
 ```
 @article{liu2023rockformer,
@@ -58,6 +58,15 @@ If you find **MarsData** is helpful for your research, please cite our paper：
   year={2021},
   doi={10.1109/TNNLS.2021.3131206},
   publisher={IEEE}
+}
+
+@data{34a5-jq14-22,
+doi = {10.21227/34a5-jq14},
+url = {https://dx.doi.org/10.21227/34a5-jq14},
+author = {Xiao, Xueming and Yao, Meibao and Liu, Haiqiang},
+publisher = {IEEE Dataport},
+title = {MarsData-V2, a rock segmentation dataset of real Martian scenes},
+year = {2022}
 }
 ```
 
