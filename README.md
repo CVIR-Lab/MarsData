@@ -27,15 +27,13 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
   <img src=https://github.com/CVIR-Lab/MarsData/blob/MarsData-V2/samples/mask_1101.png width="20%">
 </div>
 
-Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. You can download the whole data by the following ways:
+Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2 on github, respectively. You can check our lab [filestation](http://gofile.me/6V28a/UO89bnHf2) for the whole data or download the dataset by the following ways:
 
 [1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 
-[2]: [Our lab Dataservice](http://gofile.me/6V28a/UO89bnHf2);
+[2]: [Google Cloud]();
 
-[3]: [Google Cloud]();
-
-[4]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:rock
+[3]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  rock
 
 
 If you find **MarsDataV2** is helpful for your research, please cite our papers and data：
