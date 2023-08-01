@@ -31,9 +31,9 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 
 [1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 
-[2]: [Google Cloud]();
+[2]: [Google Drive]();
 
-[3]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  rock
+[3]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  **rock**
 
 
 If you find **MarsDataV2** is helpful for your research, please cite our papers and data：
