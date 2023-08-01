@@ -28,7 +28,8 @@ We show 8 samples, including 4 samples in MarsData and 4 new ones in MarsData-V2
 </div>
 
 Limited by the file size, we temporarily release 100 samples in the train, validation and test set of MarsData-V2, respectively. You can download all the data in the following ways:
-.[1]: [IEEE DataPort](https://github.com/CVIR-Lab/MarsData);
+
+.[1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 .[2]: [IEEE DataPort](https://github.com/CVIR-Lab/MarsData);
 ## References
 [1] Xiao X, Yao M, Liu H, et al. A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
