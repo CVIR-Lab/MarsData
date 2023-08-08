@@ -40,7 +40,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 
 [4]: [Our Lab filestation](http://gofile.me/6V28a/STvoP4tRm)
 -->
-If you find **MarsDataV2** is helpful for your research, please cite our papers and data：
+If you use **MarsDataV2** for your research, please cite our papers and data：
 
 ```
 @article{liu2023rockformer,
