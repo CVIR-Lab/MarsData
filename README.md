@@ -38,7 +38,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 
 [3]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  **rock**
 
-[4]: [Our Lab filestation](http://gofile.me/6V28a/UO89bnHf2)
+[4]: [Our Lab filestation](http://gofile.me/6V28a/STvoP4tRm)
 -->
 If you find **MarsDataV2** is helpful for your research, please cite our papers and data：
 
