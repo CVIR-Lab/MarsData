@@ -56,7 +56,7 @@ This folder includes all the source codes of the evaluating metrics used in our 
 
 
 ## Further plan
-We will continue to improve **MarsData**, planing to build a more complex and challenging reall mars dataset(tentatively named **MarsData2.0**), and striving to reach more than 10,000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are studying on the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
+We will continue to improve **MarsData**, planing to build a more complex and challenging reall mars dataset(tentatively named **MarsData-V2**), and striving to reach more than 10,000 labeled images. Anyone who wants join us to further optimize and improve **MardData** is strongly welcome. Besides, we are studying on the data of China's First Mars Exploration Mission("TianWen-1"), looking for passionate researchers to collaborate with us! Contact: alexcapshow@gmail.com or meibaoyao@jlu.edu.cn. 
 
 If you find **MarsData** is helpful for your research, please cite our paper：
 
