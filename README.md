@@ -42,7 +42,7 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 -->
 [2]:  If you do not acess to IEEE DataPort, please contact us by email(alexcapshow@cust.edu.cn or meibaoyao@jlu.edu.cn) and sign the data license aggrement to get the  dataset .
 
-If you use **MarsDataV2** for your research, please cite our papers and data：
+If you use **MarsDataV2** for your research, please cite all the following papers and data：
 
 ```
 @article{liu2023rockformer,
