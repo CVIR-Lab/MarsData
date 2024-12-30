@@ -34,11 +34,9 @@ Limited by the file size, we temporarily release 100 samples in the train, valid
 
 [1]: [IEEE DataPort](https://ieee-dataport.org/documents/marsdata-v2-rock-segmentation-dataset-real-martian-scenes);
 <!--
-[2]: [Google Drive](https://drive.google.com/drive/folders/1O3euKLzZkqTxFYIzvgd2cEZ-m1o_-6V6?usp=sharing);
+[2]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  **rock**
 
-[3]: [Baidu Cloud](https://pan.baidu.com/s/1cm17L6BvHaXdrrRYVh78bQ) with passcode:  **rock**
-
-[4]: [Our Lab filestation](http://gofile.me/6V28a/STvoP4tRm)
+[3]: [Our Lab filestation](http://gofile.me/6V28a/STvoP4tRm)
 -->
 [2]:  If you do not acess to IEEE DataPort, please contact us by email(alexcapshow@cust.edu.cn or meibaoyao@jlu.edu.cn) and sign the data license aggrement to get the  dataset .
 
